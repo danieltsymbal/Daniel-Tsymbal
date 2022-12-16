@@ -1,0 +1,25 @@
+site_name: Daniel Tsymbal
+
+use_directory_urls: False
+docs_dir: mddocs
+site_dir: docs
+
+theme:
+  name: "material"
+  font:
+    text: Roboto Mono
+    code: Bold Courier New
+
+plugins:
+  - mkdocstrings
+
+extra_css:
+  - css/extra.css
+
+nav:
+  - Introduction: index.md
+  - Professional Experience: professionalExperience.md
+  - Personal Projects: personalProjects.md
+  - Education: education.md
+  - Contact & References: contactAndReferences.md
+
