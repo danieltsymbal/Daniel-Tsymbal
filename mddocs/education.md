@@ -1,7 +1,7 @@
-### Coursera Specialization's
+### Coursera Specialization
 
 
-Please click hyperlink to view certificates.
+Please click the hyperlink to view certificates.
 
 
 - [Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/certificate/4XBW2AHB35QK)
@@ -38,4 +38,4 @@ Certificates can be viewed via my [LinkedIn profile](https://www.linkedin.com/in
 
 
 - Associate’s: Computer Science Information Programming, Mathematics – American River College (Not Completed)
-- Bachloar's: Computer Science, Bachelor of Science - American Public University Systems (Not Completed)
+- Bachelor's: Computer Science, Bachelor of Science - American Public University Systems (Not Completed)
