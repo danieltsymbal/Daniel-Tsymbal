@@ -1,4 +1,4 @@
-## Contact
+### Contact
 
 
 - Email: danieltsymbal@gmail.com
@@ -6,7 +6,7 @@
 - Phone Number: Provided upon request.
 
 
-## References
+### References
 
 
 Cody Brewer
