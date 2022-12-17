@@ -12,3 +12,7 @@
         transform: none;   
     }
 }
+
+.md-grid {
+    max-width: none;
+}
