@@ -11,8 +11,8 @@
         -webkit-transform: none;
         transform: none;   
     }
+    .md-grid {
+        max-width: none;
+    }
 }
 
-.md-grid {
-    max-width: none;
-}
