@@ -17,7 +17,6 @@
     - Wrapper for interfacing with thermal control tools and system of runaway temperature detection.
 - Debugging UEFI issues using logic analyzers and internal tools (Python, C++, Verilog)
   - Making changes to UEFI to confirm fixes for debugged issues.
-  - 
 - Debugging electrical design failure points and coming up with solutions.
     - Verifying signal Integrity using Osiliscopes to compare to specifications and find solutions by tweaking registers.
     - Injecting jitter into lanes and observing failure points of lanes.
