@@ -19,6 +19,7 @@ extra_css:
 nav:
   - Introduction: index.md
   - Professional Experience: professionalExperience.md
+  - Volunteering: volunteering.md
   - Personal Projects: personalProjects.md
   - Education: education.md
   - Contact & References: contactAndReferences.md
